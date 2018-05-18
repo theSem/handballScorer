@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Handball Scorer</string>
+    <string name="score">Score</string>
+    <string name="increment">POINT</string>
+    <string name="_2nd_serve">2nd Serve</string>
+    <string name="hinder">Hinder</string>
+    <string name="side_out">Side-Out</string>
+</resources>
